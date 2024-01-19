@@ -7,7 +7,7 @@ function App() {
       {/* <div className='box-1'></div> */}
       {/* <div className='box-2'></div> */}
       {/* <h1>Md Manik Hossain</h1> */}
-      <button>submit</button>
+      <button className='btn'>submit</button>
     </div>
   )
 }
