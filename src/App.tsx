@@ -1,4 +1,5 @@
-import Loading from './Loading'
+// import Loading from './Loading'
+import Transition from './Transition'
 // import './box.css'
 // import './button.css'
 // import './App.css'
@@ -6,7 +7,8 @@ function App() {
 
   return (
     <div>
-      <Loading></Loading>
+      <Transition/>
+      {/* <Loading></Loading> */}
       {/* <div className='box-1'></div> */}
       {/* <div className='box-2'></div> */}
       {/* <h1>Md Manik Hossain</h1> */}
